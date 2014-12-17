@@ -78,3 +78,29 @@ is schwa 'm'.
 
 164,45 It looks like the prime mark or an 'm' by itself.
 
+186,0-7 Something is crossed out.
+
+189,20-32 Something is crossed out.
+
+194,0 An overlapping 't' and a 'y'.
+
+198,78 There is an 'x' here above the base line, like it is a
+superscript.
+
+200,17 Can't tell what vowel this is.
+
+200,45 A letter is crossed out. It probably was an 's' or 'c' because
+the cup is still visible above it.
+
+203,64-67 Something is crossed out.
+
+215,40 There is a mark that looks like an accent mark above the 'a'.
+
+216,35-37 It looks like the word 'say' is crossed out.
+
+219,21 It is unclear what this letter is.
+
+222,29 It looks like a subscript 'x'.
+
+222,34-51 Something is crossed out.
+
