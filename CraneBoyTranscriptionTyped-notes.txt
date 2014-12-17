@@ -1,0 +1,54 @@
+12,39 Looks like a handwriten dash but curved.
+
+25,31-41 A crossed out word. The line organization becomes briefly
+confused soon after.
+
+28,62 The letters for 'What could' get bunched up here. The pound sign
+should be replaced with 'ha'.
+
+30,48 Maybe an 'o'.
+
+31,24 The letters in 'all' get bunched up here. The pound sign should
+be replaced with 'll'.
+
+33,4 Could be a crossed out 'n'.
+
+38,10 A hand-written forward slash that spans 38,10;39,9;40,8.
+
+39,1 Looks like an intentionally crossed out vowel.
+
+39,9 A hand-written forward slash that spans 38,10;39,9;40,8.
+
+39,25 Either 'k' or 'p'.
+
+40,8 A hand-written forward slash that spans 38,10;39,9;40,8.
+
+42,14-15 Intentionally crossed out word.
+
+48,6 Maybe a crossed out letter.
+
+48,50 Probably a schwa.
+
+54,44 Looks like a capital 'P' but maybe a glottal stop.
+
+63,50 Probably a schwa.
+
+63,62 Probably a schwa.
+
+63,64 Probably a schwa.
+
+69,22 Probably a schwa.
+
+69,24 Probably a schwa.
+
+75,31-75 Intentionally crossed out section.
+
+81,0 There is some type of double slash with a horizonal line on top
+here ans something that may or may not be a quote mark.
+
+84,62 There is a hand-written forward slash here.
+
+90,39 It is clearly a 't' but there is something going on above it
+that is unclear. It almost looks like an accent mark.
+
+
