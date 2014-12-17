@@ -59,3 +59,22 @@ slightly below.
 110,49 It looks almost like an 'l' above.
 
 110,50 There is a slash above that looks almost like an accent mark.
+
+116,66 This is probably just what I've been typing as '\' but as a
+hand-written correction.
+
+122,10 There is a tilde-like character above this 'e'.
+
+143,40 There is an accent mark above the schwa.
+
+144,67 There is an 'x' here above the base line, like it is a
+superscript.
+
+149,63 There is an 'x' here above the base line, like it is a
+superscript.
+
+152,33-34 May be something crossed out. Looks kind of like '@m', that
+is schwa 'm'.
+
+164,45 It looks like the prime mark or an 'm' by itself.
+
