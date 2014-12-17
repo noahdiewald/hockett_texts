@@ -127,3 +127,28 @@ the cup is still visible above it.
 273,31 There is an accent mark about this dash.
 
 273,69 There is a cup diacritic above this 'w'.
+
+285,23 I don't know what vowel this is.
+
+318,31 Unintelligible character.
+
+330,25 Unintelligible vowel.
+
+355,54 Unintelligible or crossed out.
+
+364,12 Unintelligible vowel.
+
+370,52-72 Something is crossed out.
+
+373,0-72 Something is crossed out.
+
+375,14-20 Something is crossed out.
+
+376,0-13 Something is crossed out.
+
+386,57 There was an attempt to insert a dash after this 'e'.
+
+392,30 Unintelligible character.
+
+392,44 It looks like a crossed out superscript.
+
