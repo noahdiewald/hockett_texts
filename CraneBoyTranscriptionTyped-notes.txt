@@ -104,3 +104,26 @@ the cup is still visible above it.
 
 222,34-51 Something is crossed out.
 
+237,48 The 'a' here has a hat diacritic.
+
+246,63 Maybe a 'k'.
+
+249,9 It looks like this schwa has an accent mark.
+
+249,33 The 'o' here almost looks like a 'p'.
+
+249,36 It looks like some type of unintelligible superscript.
+
+250,44-45 Something is crossed out.
+
+252,53 It is probably a glottal stop.
+
+261,15 Unintelligible character or something crossed out.
+
+267,15 Unintelligible character or something crossed out.
+
+270,33-55 Something is crossed out.
+
+273,31 There is an accent mark about this dash.
+
+273,69 There is a cup diacritic above this 'w'.
