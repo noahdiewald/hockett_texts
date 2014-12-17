@@ -51,4 +51,11 @@ here ans something that may or may not be a quote mark.
 90,39 It is clearly a 't' but there is something going on above it
 that is unclear. It almost looks like an accent mark.
 
+105,25 There is a schwa slightly above the possition and an 'a'
+slightly below.
 
+110,48 There is a dot above.
+
+110,49 It looks almost like an 'l' above.
+
+110,50 There is a slash above that looks almost like an accent mark.
