@@ -1,0 +1,16 @@
+* TODO Type the typed content as ASCII
+** DONE CraneBoyTranscriptionTyped
+   CLOSED: [2014-12-19 Fri 03:36]
+** TODO TypedASJuly13_1937_1_LL2_1-2_4
+** TODO TypedASJuly13_1937_1
+** TODO TypedASJuly23_1937_3_LL3_1-3_2
+** TODO TypedASJuly23_1937_6_LL4_1-4_7
+** TODO TypedASJuly26_1937_7_LL5_1-5_6
+** TODO TypedASJuly28_1937_5_Notebook4_02-11
+** TODO TypedASJuly29_1937_10_Notebook4_26b-30
+** TODO TypedASJuly30_1937_11_Notebook4_36-52
+** TODO TypedASJuly7_1937_4_LL1_1-1_4
+** DONE TypedAS_pp32-34
+   CLOSED: [2014-12-19 Fri 03:37]
+** TODO TypedStory2pages
+** TODO TypedTextJA_AS_pp1-28
