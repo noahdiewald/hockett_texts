@@ -65,7 +65,8 @@ It is problematic that it is not clear from simply looking at the text
 whether there is necessarily a note at a particular point. A future
 HTML version will combine the text with the notes.
 
-Note that [[file:notes.org][notes.org]] is an emacs org mode file.
+Note that [[file:notes.org][notes.org]] is an emacs org mode file. Some of the header text
+will not be visible unless you view the source.
 
 ** License
 
