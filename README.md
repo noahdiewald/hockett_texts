@@ -13,6 +13,7 @@ I am using a custom notation to type up these texts using only ASCII
 letters.
 
 | Hockett                           | Typed Text |
+| --------------------------------- | ---------- |
 | ' (non-quote separator character) | \          |
 | ·                                 | +          |
 | č                                 | _          |
