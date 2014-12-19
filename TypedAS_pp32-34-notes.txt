@@ -36,3 +36,11 @@ the intention is otherwise.
 94,14 There is a comma here as well.
 
 
+96,0 This is the beginning of a page with a handwritten 34 in the top
+right corner.
+
+107,35 This is a solid black circle. Perhaps it was an attempt to
+correct a mis-typed vowel.
+
+109,5 This is probably a consonant.
+
