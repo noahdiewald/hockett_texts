@@ -1,4 +1,4 @@
-# Charles Hockett's Potawatomi Texts
+* Charles Hockett's Potawatomi Texts
 
 These text files are ASCII text versions of Charles Hockett's typed
 transcriptions of fieldwork. An effort was made to preserve the
@@ -7,7 +7,7 @@ Tammy L. Goss.
 
 More detailed information will be added as it becomes available.
 
-## Notation used in these texts
+** Notation used in these texts
 
 I am using a custom notation to type up these texts using only ASCII
 letters.
@@ -30,7 +30,7 @@ you run:
 
     make unicode
 
-## Additional notes related to typing process
+** Additional notes related to typing process
 
 Things that are crossed out or that do not correspond to an easy to
 interpret character will be written '#'. These will have a note in the
@@ -64,7 +64,7 @@ HTML version will combine the text with the notes.
 
 Note that notes.org is an emacs org mode file.
 
-## License
+** License
 
 All information not under preexisting copyright is covered by the
 following license, also in the file LICENSE.
