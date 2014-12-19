@@ -4,8 +4,8 @@ letters.
 | Hockett                           | Typed Text |
 | ' (non-quote separator character) | \          |
 | ·                                 | +          |
-| č                                 | C          |
-| š                                 | S          |
+| č                                 | _          |
+| š                                 | $          |
 | ə                                 | @          |
 | ʔ                                 | =          |
 

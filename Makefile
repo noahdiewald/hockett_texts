@@ -8,7 +8,7 @@ unicode:
 	do \
 		sed 's/=/ʔ/g' $$i.txt| \
 		sed 's/\+/·/g'| \
-		sed 's/[^A]S/š/g'| \
-		sed 's/C/č/g'| \
+		sed 's/\$$/š/g'| \
+		sed 's/_/č/g'| \
 		sed 's/@/ə/g' > $$i.uft8; \
 	done
