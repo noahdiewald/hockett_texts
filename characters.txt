@@ -7,7 +7,7 @@ letters.
 | č                                 | C          |
 | š                                 | S          |
 | ə                                 | @          |
-| ɂ                                 | =          |
+| ʔ                                 | =          |
 
 Obviously, all of the above can be replace with a simple find and
 replace.
