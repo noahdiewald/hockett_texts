@@ -24,7 +24,7 @@ These do not correspond to any previous notation used and were chosen
 entirely for ease of typing and the fact that they do not conflict
 with any characters used in English portions of the Hockett texts.
 
-The included Makefile can convert these to appropriate UTF8 unicode if
+The included [[file:Makefile][Makefile]] can convert these to appropriate UTF8 unicode if
 you run:
 
 #+BEGIN_SRC shell
@@ -38,7 +38,7 @@ interpret character will be written '#'. These will have a note in the
 notes.org file. They will be listed by line and column number.
 
 Additional notes that do not correspond to '#' in the typed text can
-also be found in the notes.org file with the same line and column
+also be found in the [[file:notes.org][notes.org]] file with the same line and column
 number convention.
 
 Here is an example:
@@ -65,12 +65,12 @@ It is problematic that it is not clear from simply looking at the text
 whether there is necessarily a note at a particular point. A future
 HTML version will combine the text with the notes.
 
-Note that notes.org is an emacs org mode file.
+Note that [[file:notes.org][notes.org]] is an emacs org mode file.
 
 ** License
 
 All information not under preexisting copyright is covered by the
-following license, also in the file LICENSE.
+following license, also in the file [[file:LICENSE][LICENSE]].
 
 #+BEGIN_HTML
 <a rel="license"
