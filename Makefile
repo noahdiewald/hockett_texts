@@ -10,5 +10,5 @@ unicode:
 		sed 's/\+/·/g'| \
 		sed 's/\$$/š/g'| \
 		sed 's/_/č/g'| \
-		sed 's/@/ə/g' > $$i.uft8; \
+		sed 's/@/ə/g' > $$i.utf8; \
 	done
