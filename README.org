@@ -72,6 +72,7 @@ Note that notes.org is an emacs org mode file.
 All information not under preexisting copyright is covered by the
 following license, also in the file LICENSE.
 
+#+BEGIN_HTML
 <a rel="license"
 href="http://creativecommons.org/licenses/by-sa/4.0/"><img
 alt="Creative Commons License" style="border-width:0"
@@ -81,3 +82,4 @@ property="dct:title">Charles Hockett Potawatomi Texts</span> is
 licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
 Attribution-ShareAlike 4.0 International License</a>.
+#+END_HTML
