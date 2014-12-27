@@ -159,6 +159,9 @@ the cup is still visible above it.
 ** DONE TypedASJuly13_1937_1_LL2_1-2_4
    CLOSED: [2014-12-19 Fri 04:28]
 
+The scan this file is based on contains one page of typed text
+followed by 4 pages of handwritten transcription and translation.
+
 0,0 This is the beginning of a page with a handwritten '4' in the top
 right corner.
 
@@ -167,7 +170,16 @@ right corner.
 
 1,23-29 The text '; early' is crossed out.
 
-** TODO TypedASJuly13_1937_1
+** DONE TypedASJuly13_1937_1
+   CLOSED: [2014-12-27 Sat 03:18]
+
+The typed portion of this is a duplicate of
+[[TypedASJuly13_1937_1_LL2_1-2_4]]. I will probably just remove this file
+at some point but I will wait since this file name does correspond to
+a scanned file name.
+
+The scanned file does not contain any handwritten transcriptions.
+
 ** TODO TypedASJuly23_1937_3_LL3_1-3_2
 ** TODO TypedASJuly23_1937_6_LL4_1-4_7
 ** TODO TypedASJuly26_1937_7_LL5_1-5_6
