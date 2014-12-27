@@ -180,7 +180,15 @@ a scanned file name.
 
 The scanned file does not contain any handwritten transcriptions.
 
-** TODO TypedASJuly23_1937_3_LL3_1-3_2
+** DONE TypedASJuly23_1937_3_LL3_1-3_2
+   CLOSED: [2014-12-27 Sat 03:50]
+
+The scan this file is based on contains one page of typed text
+followed by 2 pages of handwritten transcription and translation.
+
+0,0 This is the beginning of a page with a handwritten '7' in the top
+right corner.
+
 ** TODO TypedASJuly23_1937_6_LL4_1-4_7
 ** TODO TypedASJuly26_1937_7_LL5_1-5_6
 ** TODO TypedASJuly28_1937_5_Notebook4_02-11
