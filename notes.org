@@ -189,7 +189,50 @@ followed by 2 pages of handwritten transcription and translation.
 0,0 This is the beginning of a page with a handwritten '7' in the top
 right corner.
 
-** TODO TypedASJuly23_1937_6_LL4_1-4_7
+** DONE TypedASJuly23_1937_6_LL4_1-4_7
+   CLOSED: [2014-12-27 Sat 20:09]
+
+The scan this file is based on contains 2 pages of typed text followed
+by 7 pages of handwritten transcription and translation.
+
+0,0 This is the beginning of a page with a handwritten '13' in the top
+right corner.
+
+11,59 It looks like a 'w' was intensionally whited out here.
+
+23,30 This is not a recognizable vowel but it is probably a schwa.
+
+41,50 Possibly the paper was moved during the scan and this consonant
+has become ambiguous. I think it is an 's'.
+
+55,55 Looks like an intentionally whited out double quote mark.
+
+59,0 This is the beginning of a page with a handwritten '14' in the
+top right corner.
+
+65,40 Something looks to be intentionally crossed out here.
+
+67,67 This looks like something has been accidentally typed in the
+same spot but I think it is supposed to be a 'k'.
+
+73,27 There is a tilde diacritic here that is probably intended to
+show that the vowel is nasal.
+
+83,32 There looks to be something over typed here but I'm pretty sure
+it is supposed to be a 'k'.
+
+91,31 There is a handwritten correction. I think it is to make the
+character be a 'k' rather than some other typo.
+
+91,33 There is a handwritten correction. I think it is to make the
+character be a 'p' rather than some other typo.
+
+91,67 This vowel is ambiguous looking but I think it is an 'o'.
+
+111,45 Something is crossed out here or otherwise incomprehensible.
+
+115,43 This is incomprehensible. It may be something crossed out.
+
 ** TODO TypedASJuly26_1937_7_LL5_1-5_6
 ** TODO TypedASJuly28_1937_5_Notebook4_02-11
 ** TODO TypedASJuly29_1937_10_Notebook4_26b-30
