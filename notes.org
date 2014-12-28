@@ -233,7 +233,34 @@ character be a 'p' rather than some other typo.
 
 115,43 This is incomprehensible. It may be something crossed out.
 
-** TODO TypedASJuly26_1937_7_LL5_1-5_6
+** DONE TypedASJuly26_1937_7_LL5_1-5_6
+   CLOSED: [2014-12-27 Sat 22:25]
+
+The scan this file is based on contains 2 pages of typed text followed
+by 6 pages of handwritten transcription and translation.
+
+0,0 This is the beginning of a page with a handwritten '15' in the top
+right corner.
+
+23,4 This looks like a handwritten correction to the letter 's'.
+
+31,40 This looks like a correction to 't' after 'y' was accidentally
+pressed.
+
+33,1 This looks like a correction to 'i' from 'w'.
+
+31,31 This is dark and possibly a correction. I think it is a 'w'.
+
+43,50 It looks like there is an intentional accent mark here.
+
+45,10 These is a comma under the glottal stop character.
+
+53,63 This is maybe a crossed out schwa and an interpunct but it is
+too hard to tell.
+
+59,0 This is the beginning of a page with a handwritten '16' in the
+top right corner.
+
 ** TODO TypedASJuly28_1937_5_Notebook4_02-11
 ** TODO TypedASJuly29_1937_10_Notebook4_26b-30
 ** TODO TypedASJuly30_1937_11_Notebook4_36-52
