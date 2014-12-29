@@ -325,7 +325,63 @@ another letter in the next column.
 
 87,28 This vowel was handwritten. It may be a schwa.
 
-** TODO TypedASJuly30_1937_11_Notebook4_36-52
+** DONE TypedASJuly30_1937_11_Notebook4_36-52
+   CLOSED: [2014-12-29 Mon 18:07]
+
+The scan this file is based on contains 4 pages of typed text followed
+by 17 pages of handwritten transcription and translation.
+
+There is an extra space on the left of each line to accommodate a
+double quote mark on line 79.
+
+0,0 This is the beginning of a page with a handwritten '25' in the top
+right corner. There is also the number '4.36' handwritten in the left
+margin at about the same vertical position as the first line of the
+page. Beneath this number is a grid-like symbol.
+
+It looks like there could be more of this story in the handwritten
+portion of this file. It is unclear if the rest of the typed portion
+was lost or if it was simply not finished.
+
+25,20 This letter is ambiguous. It could be a vowel, interpunt or
+both.
+
+57,0 This is the beginning of a page with a handwritten '26' in the
+top right corner.
+
+113,7 This looks like a schwa was intended but it is ambiguous.
+
+113,9 This looks like a schwa was intended but it is ambiguous.
+
+117,0 This is the beginning of a page with a handwritten '27' in the
+top right corner.
+
+127,16 There is a mark that looks like an accent mark above this 'w'.
+
+145,26-28 There is something crossed out here.
+
+149,48 I think this is an 'i' or an 'o'.
+
+157,53 This is probably an 'e'.
+
+157,54 This may be a letter or something may be crossed out here. I
+cannot tell.
+
+159,61 This may not be a schwa. It is slightly ambiguous.
+
+168,42 The text indicates that this 'a' should go after the 'w' at
+line and column 169,42
+
+169,42 See 168,42.
+
+171,2 This could possibly be a different letter than 'y'.
+
+177,0 This is the beginning of a page with a handwritten '28' in the
+top right corner.
+
+201,33-36 This area is typed over or smudged but is probably correct
+despite that.
+
 ** TODO TypedASJuly7_1937_4_LL1_1-1_4
 ** DONE TypedAS_pp32-34
    CLOSED: [2014-12-19 Fri 03:37]
