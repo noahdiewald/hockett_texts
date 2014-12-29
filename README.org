@@ -79,7 +79,8 @@ will not be visible unless you view the source.
 
 Hockett, Charles. /Charles F. Hockett papers, 1934-2000, bulk
 1940-1989/.  Papers of Charles F. Hockett, National Anthropological
-Archives, Smithsonian Institution.
+Archives, Smithsonian
+Institution. http://www.anthropology.si.edu/naa/fa/hockett.pdf
 
 ** License
 
@@ -97,3 +98,16 @@ licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
 Attribution-ShareAlike 4.0 International License</a>.
 #+END_HTML
+
+** Charles F. Hockett papers, 1934-2000, bulk 1940-1989
+   :PROPERTIES:
+   :TITLE:    Charles F. Hockett papers, 1934-2000, bulk 1940-1989
+   :BTYPE:    misc
+   :CUSTOM_ID: hockettArchive
+   :HOWPUBLISHED: Archived materialsa
+   :AUTHOR:   Charles F. Hockett
+   :YEAR:     1934-2000
+   :NOTE:     Papers of Charles F. Hockett, National Anthropological Archives, Smithsonian Institution.
+   :LOCATION: National Anthropological Archives, Smithsonian Museum Support Center, Suitland, Maryland
+   :URL:      http://www.anthropology.si.edu/naa/fa/hockett.pdf
+   :END:
