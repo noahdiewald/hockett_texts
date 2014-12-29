@@ -1,11 +1,18 @@
 * Charles Hockett's Potawatomi Texts
 
 These text files are ASCII text versions of Charles Hockett's typed
-transcriptions of fieldwork. An effort was made to preserve the
-original formatting. These are from a collection of scans produced by
-Tammy L. Goss.
+transcriptions of Potawatomi fieldwork. They are from a collection
+that contains Hockett’s files from field research he conducted among
+the Potawatomi for his PhD dissertation.
 
-More detailed information will be added as it becomes available.
+I am working from copies of scans produced by Tammy L. Goss before the
+materials were archived at the Smithsonian. Her file naming
+conventions were retained.
+
+An effort was made to preserve the original formatting so that the
+text files are organized roughly like the typed pages.
+
+More detailed information will be added over time. 
 
 ** Notation used in these texts
 
@@ -67,6 +74,12 @@ HTML version will combine the text with the notes.
 
 Note that [[file:notes.org][notes.org]] is an emacs org mode file. Some of the header text
 will not be visible unless you view the source.
+
+** References
+
+Hockett, Charles. *Charles F. Hockett papers, 1934-2000, bulk
+1940-1989*.  Papers of Charles F. Hockett, National Anthropological
+Archives, Smithsonian Institution.
 
 ** License
 
