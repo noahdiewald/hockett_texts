@@ -261,7 +261,42 @@ too hard to tell.
 59,0 This is the beginning of a page with a handwritten '16' in the
 top right corner.
 
-** TODO TypedASJuly28_1937_5_Notebook4_02-11
+** DONE TypedASJuly28_1937_5_Notebook4_02-11
+   CLOSED: [2014-12-29 Mon 04:16]
+
+The scan this file is based on contains 3 pages of typed text followed
+by 10 pages of handwritten transcription and translation.
+
+In this text there is an extra space on the beginning of every line to
+accommodate the first quote mark on line 167.
+
+0,0 This is the beginning of a page with a handwritten '15' in the top
+right corner. There is also the number '4.1' handwritten in the left
+margin at about the same vertical position as the first line of the
+first paragraph.
+
+39,18 There is a tilde diacritic here to indicate nasalization.
+
+59,0 Beginning of new page.
+
+91,47-52 There is an S-shaped symbol here indicating that 'kin' and
+'ke' should be transposed.
+
+105,47 There is a tilde diacritic here to indicate nasalization.
+
+111,3 I am not certain that this is the right vowel.
+
+113,1-2 There is a whited out glottal stop 'i' here.
+
+117,0 Beginning of new page.
+
+137,27 This could possibly be a glottal stop or something crossed out.
+
+145,38 There is a tilde diacritic here to indicate nasalization.
+
+159,44-56 This is an area where is looks like there was a scan error
+and the text is ambiguous.
+
 ** TODO TypedASJuly29_1937_10_Notebook4_26b-30
 ** TODO TypedASJuly30_1937_11_Notebook4_36-52
 ** TODO TypedASJuly7_1937_4_LL1_1-1_4
