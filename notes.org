@@ -452,4 +452,38 @@ correct a mis-typed vowel.
 109,5 This is probably a consonant.
 
 ** TODO TypedStory2pages
+
+The scan this file is based on contains 2 pages of typed text.
+
+The pages contain obscuring folds in some places and it looks like
+this may have been a series of photographs instead of a scan. The
+quality is horrible, especially in the first lines. 
+
+This text contains the letter 'j', which most of the other texts do
+not. This 'j' obviously corresponds to 'y' in the other texts and so
+will be typed as 'y' in this version.
+
+5,29 It looks like there is supposed to be a dash following this 'e'.
+
+7,50 This looks like a subscript 'x'.
+
+9,12 This looks almost like an 'r'.
+
+9,38 It looks like an interpunct may follow this 'p'.
+
+11,40 It looks like this could be an interpunct or a schwa followed by
+and 'n' that was accidentally omitted.
+
+11,57 It looks like a second 't' should be here.
+
+13,27 See 11,40.
+
+15,41 It looks like an interpunct may follow this 'š'.
+
+17,7 See 11,40
+
+19,59 This may be an 'e'.
+
+23,46 This looks like and accent or prime mark.
+
 ** TODO TypedTextJA_AS_pp1-28
