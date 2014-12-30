@@ -451,7 +451,8 @@ correct a mis-typed vowel.
 
 109,5 This is probably a consonant.
 
-** TODO TypedStory2pages
+** DONE TypedStory2pages
+   CLOSED: [2014-12-30 Tue 12:39]
 
 The scan this file is based on contains 2 pages of typed text.
 
@@ -484,6 +485,25 @@ and 'n' that was accidentally omitted.
 
 19,59 This may be an 'e'.
 
-23,46 This looks like and accent or prime mark.
+23,46 This looks like an accent or prime mark.
+
+41,2 It looks like there is an accent mark above this hyphen.
+
+43,11 It looks like there is a dash mark through this 'p'.
+
+45,13 It looks like a hyphen should follow this 'i'.
+
+45,14 It looks like a hyphen should follow this 't'.
+
+57,0 This is the beginning of page 2.
+
+61,67 There is clearly something typed here but a fold in the paper
+makes it illegible.
+
+63,45 It looks like a hyphen should follow this 'i'.
+
+67,14 It looks like a hyphen may follow this schwa.
+
+69,9 This is illegible.
 
 ** TODO TypedTextJA_AS_pp1-28
