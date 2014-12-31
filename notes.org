@@ -1,4 +1,5 @@
-* TODO Type the typed content as ASCII
+* DONE Type the typed content as ASCII
+  CLOSED: [2014-12-31 Wed 02:20]
 ** DONE CraneBoyTranscriptionTyped
    CLOSED: [2014-12-19 Fri 03:36]
 
@@ -270,14 +271,15 @@ by 10 pages of handwritten transcription and translation.
 In this text there is an extra space on the beginning of every line to
 accommodate the first quote mark on line 167.
 
-0,0 This is the beginning of a page with a handwritten '15' in the top
+0,0 This is the beginning of a page with a handwritten '10' in the top
 right corner. There is also the number '4.1' handwritten in the left
 margin at about the same vertical position as the first line of the
 first paragraph.
 
 39,18 There is a tilde diacritic here to indicate nasalization.
 
-59,0 Beginning of new page.
+59,0 This is the beginning of a page with a handwritten '11' in the
+top right corner.
 
 91,47-52 There is an S-shaped symbol here indicating that 'kin' and
 'ke' should be transposed.
@@ -506,7 +508,8 @@ makes it illegible.
 
 69,9 This is illegible.
 
-** TODO TypedTextJA_AS_pp1-28
+** DONE TypedTextJA_AS_pp1-28
+   CLOSED: [2014-12-31 Wed 02:19]
 
 The scan this file is based on contains 22 pages of typed text.
 
@@ -537,3 +540,56 @@ intentionally crossed out.
 94,10 This is illegible but later occurrences of the same word show it
 to be an interpunct.
 
+116,0 This is the beginning of a page with a handwritten '3' in the
+upper right corner.
+
+138,18-19 These are difficult to read but I think the intention was to
+correct an error and type 'pk'.
+
+140,41 It looks like this is followed by an interpunct.
+
+154,46 There should be an interpunct following this 'č'.
+
+175,0 From here I am pasting in the contents of another file where
+this page is a duplicate. In fact, both TypedASJuly13_1937_1 and
+TypedASJuly13_1937_1_LL2_1-2_4 have duplicate text. See those sections
+for notes.
+
+240,0 This is the beginning of a page with a handwritten '5' in the
+upper right corner. Also in the upper right corner the three words are
+written, each below the other, 'npitk·e', 'pitk·e' and 'kpitk·e'.
+
+283-290,0 There is a bar of music notes drawn here.
+
+116,0 This is the beginning of a page with a handwritten '6' in the
+upper right corner.
+
+240,0 This is the beginning of a page with a handwritten '7' in the
+upper right corner. It duplicates [[TypedASJuly23_1937_3_LL3_1-3_2]].
+
+365,0 This is the beginning of a page with a handwritten '8' in the
+upper right corner. It duplicates [[TypedASJuly7_1937_4_LL1_1-1_4]]. This
+goes to handwritten page '9'.
+
+435,0 This is the beginning of a page with a handwritten '10' in the
+upper right corner. It duplicates
+[[TypedASJuly28_1937_5_Notebook4_02-11]]. This goes to handwritten page
+'12'.
+
+613,0 This is the beginning of a page with a handwritten '13' in the
+upper right corner. It duplicates [[TypedASJuly23_1937_6_LL4_1-4_7]]. This
+goes to handwritten page '14'.
+
+733,0 This is the beginning of a page with a handwritten '15' in the
+upper right corner. It duplicates [[TypedASJuly26_1937_7_LL5_1-5_6]]. This
+goes to handwritten page '16' and then there is a gap until '23'.
+
+821,0 This is the beginning of a page with a handwritten '23' in the
+upper right corner. It duplicates
+[[TypedASJuly29_1937_10_Notebook4_26b-30]] This goes to handwritten page
+'24'.
+
+917,0 This is the beginning of a page with a handwritten '25' in the
+upper right corner. It duplicates
+[[TypedASJuly30_1937_11_Notebook4_36-52]] This goes to handwritten page
+'28'.
