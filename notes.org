@@ -507,3 +507,33 @@ makes it illegible.
 69,9 This is illegible.
 
 ** TODO TypedTextJA_AS_pp1-28
+
+The scan this file is based on contains 22 pages of typed text.
+
+Some of this file consists of texts that were also in other
+files.
+
+The lines in this file begin with an extra space to accommodate some
+characters that overflow into the left margin.
+
+13,27 It looks like there may be a handwritten interpunct following
+this 's'.
+
+39,51 This is illegible.
+
+54,0 This is the beginning of a page with a handwritten '2' in the
+upper right corner. This page is poorly scanned and the last line is
+only partially visible. From what can be seen and what is on the other
+pages, it almost certainly reads "transcribed August 23, 1938. copy
+1."
+
+72,60 It looks like some unintentional mark.
+
+74,58 This is illegible and is probably something that is
+intentionally crossed out.
+
+88,1 There is a comma under this glottal stop.
+
+94,10 This is illegible but later occurrences of the same word show it
+to be an interpunct.
+
