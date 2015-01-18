@@ -1,16 +1,23 @@
 * Charles Hockett's Potawatomi Texts
 
-These text files are ASCII text versions of Charles Hockett's typed
-transcriptions of Potawatomi fieldwork. They are from a collection
-that contains Hockett’s files from field research he conducted among
-the Potawatomi for his PhD dissertation.
+These files contain ASCII text derived from a collection of Hockett’s
+transcriptions of Potawatomi fieldwork that was done during the 1930's
+as research for his dissertation.
 
 I am working from copies of scans produced by Tammy L. Goss before the
 materials were archived at the Smithsonian. Her file naming
-conventions were retained.
+conventions were retained on the files in 'texts'. The original
+scanned files also included handwritten transcription and translation
+in some cases but the original files were too large to include in the
+repository.
 
 An effort was made to preserve the original formatting so that the
-text files are organized roughly like the typed pages.
+text files are organized roughly like the typed pages. The included
+Makefile contains tasks that will transform the texts into formats
+usable for a variety of purposes.
+
+These texts deserve further documentation but for the time being the
+focus will be on making them usable for further research.
 
 ** Notation used in these texts
 
