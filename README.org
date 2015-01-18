@@ -12,8 +12,6 @@ conventions were retained.
 An effort was made to preserve the original formatting so that the
 text files are organized roughly like the typed pages.
 
-More detailed information will be added over time. 
-
 ** Notation used in these texts
 
 I am using a custom notation to type up these texts using only ASCII
@@ -51,13 +49,13 @@ number convention.
 Here is an example:
 
 #+BEGIN_SRC orgmode
-** DONE CraneBoyTranscriptionTyped
+ ** DONE CraneBoyTranscriptionTyped
    CLOSED: [2014-12-19 Fri 03:36]
 
-12,39 Looks like a handwriten dash but curved.
+ 12,39 Looks like a handwriten dash but curved.
 
-25,31-41 A crossed out word. The line organization becomes briefly
-confused soon after.
+ 25,31-41 A crossed out word. The line organization becomes briefly
+ confused soon after.
 #+END_SRC
 
 The section of notes will be headed by a line that begins with two '*'
