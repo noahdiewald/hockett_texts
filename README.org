@@ -91,7 +91,7 @@ the notes:
   - Last Update: Wednesday, November 3, 2010
 
 The following text in the subsections 'Filenames are:' and 'NOTES:'
-have been altered only in minor formatting changes but is otherwise as
+has been altered only in minor formatting changes but is otherwise as
 written by Tammy L. Goss.
 
 **** Filenames are:
