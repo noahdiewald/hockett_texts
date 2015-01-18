@@ -145,17 +145,15 @@ It contained the following tables.
 
 **** TypedASJuly13_1937_1_LL2_1-2_4.pdf
 
-| Typed      | ASJuly13_1937_1      | LL         | 2_1-2_4                |
-|------------+----------------------+------------+------------------------|
-| Hockett's  | Header on            | Loose leaf | Images 2_1 through 2_4 |
-| typed text | Hockett's typed text |            | (original TIF files    |
+| Typed                | ASJuly13_1937_1                | LL         | 2_1-2_4                                      |
+|----------------------+--------------------------------+------------+----------------------------------------------|
+| Hockett's typed text | Header on Hockett's typed text | Loose leaf | Images 2_1 through 2_4  (original TIF files) |
 
 **** TypedASJuly29_1937_10_Notebook4_26b-30.pdf
 
-| Typed      | ASJuly29_1937_10     | Notebook4  | 26b-30               |
-|------------+----------------------+------------+----------------------|
-| Hockets    | Header on            | Notebook # | Images 26b-30        |
-| typed text | Hockett's typed text |            | (original TIF files) |
+| Typed              | ASJuly29_1937_10               | Notebook4  | 26b-30                             |
+|--------------------+--------------------------------+------------+------------------------------------|
+| Hockets typed text | Header on Hockett's typed text | Notebook # | Images 26b-30 (original TIF files) |
 
 ** References
 
