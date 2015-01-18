@@ -73,6 +73,33 @@ HTML version will combine the text with the notes.
 Note that [[file:notes.org][notes.org]] is an emacs org mode file. Some of the header text
 will not be visible unless you view the source.
 
+** Original notes on scanned texts
+
+The files in the 'texts' subdirectory are derived from scans produced
+by Tammy L. Goss. She provided some notes on the files in two MS Word
+files. I have reproduced the content of those original notes here.
+
+*** File naming conventions for typed handwritten pairings
+
+The original file name was
+FileNamingConventionsForTyped_HandwrittenPairings.docx
+
+It contained the following tables.
+
+**** TypedASJuly13_1937_1_LL2_1-2_4.pdf
+
+| Typed      | ASJuly13_1937_1      | LL         | 2_1-2_4                |
+|------------+----------------------+------------+------------------------|
+| Hockett's  | Header on            | Loose leaf | Images 2_1 through 2_4 |
+| typed text | Hockett's typed text |            | (original TIF files    |
+
+**** TypedASJuly29_1937_10_Notebook4_26b-30.pdf
+
+| Typed      | ASJuly29_1937_10     | Notebook4  | 26b-30               |
+|------------+----------------------+------------+----------------------|
+| Hockets    | Header on            | Notebook # | Images 26b-30        |
+| typed text | Hockett's typed text |            | (original TIF files) |
+
 ** References
 
 Hockett, Charles. /Charles F. Hockett papers, 1934-2000, bulk
